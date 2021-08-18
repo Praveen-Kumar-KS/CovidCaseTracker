@@ -1,0 +1,9 @@
+body{
+    background-image:url(background/m.jpg);
+       background-position: center;
+       background-attachment: fixed;
+       background-size: cover;
+        background-repeat: no-repeat;
+  color: var(--text_dark);
+  padding: 70px;
+}
